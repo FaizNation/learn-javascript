@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/FaizNation/learn-javascript/issues"
   },
-  "homepage": "https://github.com/FaizNation/learn-javascript#readme"
+  "homepage": "https://github.com/FaizNation/learn-javascript#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "globals": "^17.0.0"
+  }
 }
