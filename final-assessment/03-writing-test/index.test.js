@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert';
 import { sum } from './index.js';
 
-test('sum function adds two numbers correctly', () => {
+test('Should add two numbers correctly', () => {
   // Test basic addition
   assert.strictEqual(sum(1, 2), 3, '1 + 2 should be 3');
 
